@@ -27,10 +27,10 @@
     "nodes": [
         {
             "location": {
-                "name": "Tokyo",
-                "country": "Japan",
-                "latitude": 139.6932,
-                "longitude": 35.6898
+                "name": "UK",
+                "country": "London",
+                "latitude": 51.50,
+                "longitude": 0.5
             },
             "is_producer": false,
             "api_endpoint": "http://api.eosadd.com:8080",
@@ -38,10 +38,10 @@
         },
         {
             "location": {
-                "name": "Tokyo",
-                "country": "Japan",
-                "latitude": 139.6932,
-                "longitude": 35.6898
+                "name": "UK",
+                "country": "London",
+                "latitude": 51.50,
+                "longitude": 0.5
             },
             "is_producer": true,
             "p2p_endpoint": "p2p.eosadd.com:9090"
