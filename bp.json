@@ -1,0 +1,50 @@
+{
+    "producer_account_name": "eosadddddddd",
+    "producer_public_key": "EOS8RBVQtaZRWNq5iRoKK3b5nnWHPmqoLgUZbK3TfAtyvucy4QR65",
+    "org": {
+        "candidate_name": "EOS Add",
+        "website": "http://eosadd.com",
+        "email": "support@eosadd.com",
+	"code_of_conduct": "",
+        "branding": {
+            "logo_256": "http://eosadd.com/logo_256.png",
+            "logo_1024": "https://eosadd.com/logo_1024.png",
+            "logo_svg": "https://eosadd.com/logo.svg"
+        },
+        "location": {
+            "name": "London",
+            "country": "UK",
+            "latitude": 51.30,
+            "longitude": 0.50
+        },
+        "social": {
+            "steemit": "",
+            "twitter": "",
+            "github": "",
+            "telegram": ""
+        }
+    },
+    "nodes": [
+        {
+            "location": {
+                "name": "Tokyo",
+                "country": "Japan",
+                "latitude": 139.6932,
+                "longitude": 35.6898
+            },
+            "is_producer": false,
+            "api_endpoint": "http://api.eosadd.com:8080",
+            "ssl_endpoint": ""
+        },
+        {
+            "location": {
+                "name": "Tokyo",
+                "country": "Japan",
+                "latitude": 139.6932,
+                "longitude": 35.6898
+            },
+            "is_producer": true,
+            "p2p_endpoint": "p2p.eosadd.com:9090"
+        }
+    ]
+}
