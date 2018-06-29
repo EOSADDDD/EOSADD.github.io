@@ -33,7 +33,7 @@
                 "longitude": 0.5
             },
             "is_producer": false,
-            "api_endpoint": "http://api.eosadd.com:8080",
+            "api_endpoint": "http://api.eosadd.com",
             "ssl_endpoint": ""
         },
         {
